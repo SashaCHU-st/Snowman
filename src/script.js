@@ -320,7 +320,7 @@ sky.material.uniforms['mieCoefficient'].value = 0.5; // Lower for less scatterin
 sky.material.uniforms['mieDirectionalG'].value = 1; // Higher for more diffuse light
 
 // Optionally, adjust the sun position for effect
-sky.material.uniforms['sunPosition'].value.set(0.5, 0.5, 0.5);//(0.3, -0.038, -0.95)
+sky.material.uniforms['sunPosition'].value.set(0.5, 0.5, 0.5);
 
 
 const skyBounds = {
