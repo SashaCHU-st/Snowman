@@ -30,7 +30,7 @@ const maxRange = 1000, minRange = maxRange/2
 const geo = new THREE.BufferGeometry();
 const textureLoader = new THREE.TextureLoader()
 const minHeight = 0;
-const maxHeight = 50; // Adjust as needed
+const maxHeight = 50; // Adjust as needed   huio
 function addSnow() {
     for (let i = 0; i < number; i++) {
         position.push(
