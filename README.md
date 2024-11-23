@@ -1,17 +1,13 @@
-# Three.js snowman project
+# Three.js snowman project ☃
 
 ## Visit mine snowman project:
 https://snowman-lilac.vercel.app/
 
 ## Preview mine snowman project
-![Uploading Untitled4-ezgif.com-optimize.gif…]()
-
-## Screenshot
-![image](https://github.com/user-attachments/assets/8d6ecea2-05e9-4b7c-9c80-c7d2c8ac589f)
-
+![Un (1)](https://github.com/user-attachments/assets/368cec59-bb36-47eb-87b8-0c4bfc906480)
 
 Simple project made with ThreeJS library.
-Like to creating somethin beatiful
+Like to creating something beatiful 
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
