@@ -1,12 +1,12 @@
 # Three.js snowman project
 
-Visit mine snowman project:
+## Visit mine snowman project:
 https://snowman-lilac.vercel.app/
 
-Preview mine snowman project
+## Preview mine snowman project
 ![Uploading Untitled4-ezgif.com-optimize.gif…]()
 
-Screenshot
+## Screenshot
 ![image](https://github.com/user-attachments/assets/8d6ecea2-05e9-4b7c-9c80-c7d2c8ac589f)
 
 
